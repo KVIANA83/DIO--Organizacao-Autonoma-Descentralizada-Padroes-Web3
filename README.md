@@ -1,2 +1,3 @@
-# DIO--Organizacao-Autonoma-Descentralizada-Padroes-Web3
-Desafio de Projeto - Criando uma Organização Autônoma Descentralizada nos Padrões Web3
+## DIO - Bootcamp Blockchain Developer with Solidity 
+
+**Desafio de Projeto:** Criando uma Organização Autônoma Descentralizada nos Padrões Web3
